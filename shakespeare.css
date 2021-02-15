@@ -24,3 +24,25 @@
 .pericles{
     color:rgb(6, 235, 212);
 }
+.tbl{
+    border: solid 3px;
+    border-color:black;
+    text-align: center;
+    width:250px;
+    margin:10px 20px 10px 20px;
+}
+th{
+    color:rgb(54, 77, 209);
+    background-color: skyblue;
+    border:solid 2px;
+    padding:10px 40px 10px 40px;
+}
+td{
+    padding:10px 20px 10px 20px;
+}
+tr:nth-child(even) {
+background-color: #dddddd;
+}
+tr:nth-child(odd){
+background-color: #c4d8b2d3;
+}
