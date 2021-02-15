@@ -1,0 +1,26 @@
+.para   {
+    font-family: Georgia, serif;
+    font-size: 10;
+    color: black;
+}
+.nm{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 15;
+    color: black;
+}
+.sd{
+    font-family: Garamond, serif;
+    font-size: 10;
+    color: black;
+    background-color: antiquewhite;
+}
+.sd:hover{
+    color: rgb(247, 242, 242);
+    background-color: teal;
+}
+.antiochus{
+    color:rgb(214, 166, 214);
+}
+.pericles{
+    color:rgb(6, 235, 212);
+}
