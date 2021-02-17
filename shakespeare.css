@@ -55,3 +55,18 @@ background-color: #dddddd;
 tr:nth-child(odd){
 background-color: #c4d8b2d3;
 }
+
+.footer{
+    text-align: left;
+}
+.footer ul{
+    list-style-type: none;
+    background:cornflowerblue;
+    padding: 15px 15px 15px 5px;
+    border-left: 6px solid #5e37bc;
+    margin-left: 20px;
+}
+.footer li{
+    display:inline;
+    margin-left: 20px;
+}
